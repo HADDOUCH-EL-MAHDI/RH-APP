@@ -1,0 +1,52 @@
+services:
+  mysql:
+    container_name: mysql
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_USER: zeekouu
+      MYSQL_PASSWORD: password
+      MYSQL_DATABASE: fraud
+    ports:
+      - "3307:3306"
+    networks:
+      - rhmanagement
+    volumes:
+      - mysql_data:/var/lib/mysql
+    restart: unless-stopped
+  postgres:
+    container_name: post
+    image: postgres
+    environment:
+      POSTGRES_USER: zeekouu
+      POSTGRES_PASSWORD: password
+      PGDATA: /data/postgres
+    volumes:
+      - post:/data/postgres
+    ports:
+      - "5432:5432"
+    networks:
+      - rhmanagement
+    restart: unless-stopped
+  pgadmin:
+    container_name: pgadmin
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL:-pgadmin4@pgadmin.org}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD:-admin}
+      PGADMIN_CONFIG_SERVER_MODE: 'False'
+    volumes:
+      - pgadmin:/var/lib/pgadmin
+    ports:
+      - "5050:80"
+    networks:
+      - rhmanagement
+    restart: unless-stopped
+
+networks:
+  rhmanagement:
+    driver: bridge
+volumes:
+  post:
+  pgadmin:
+  mysql_data:
