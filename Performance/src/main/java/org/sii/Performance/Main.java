@@ -1,4 +1,4 @@
-package org.sii.authentification;
+package org.sii.Performance;
 
 public class Main {
     public static void main(String[] args) {

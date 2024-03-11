@@ -1,4 +1,4 @@
-package org.sii.authentification;
+package org.sii.DemandesAdministratives;
 
 public class Main {
     public static void main(String[] args) {
