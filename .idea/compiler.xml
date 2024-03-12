@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="DemandesAdministratives" />
+        <module name="Gateway" />
         <module name="DemandesAbsences" />
         <module name="Authentification" />
         <module name="Performance" />
-        <module name="DemandesAdministratives" />
-        <module name="Gateway" />
+        <module name="Eureka" />
+        <module name="Notification" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,7 +24,9 @@
       <module name="Authentification" options="-parameters" />
       <module name="DemandesAbsences" options="-parameters" />
       <module name="DemandesAdministratives" options="-parameters" />
+      <module name="Eureka" options="-parameters" />
       <module name="Gateway" options="-parameters" />
+      <module name="Notification" options="-parameters" />
       <module name="Performance" options="-parameters" />
     </option>
   </component>

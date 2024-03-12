@@ -21,6 +21,8 @@
     <module>Performance</module>
     <module>Authentification</module>
     <module>Gateway</module>
+      <module>Eureka</module>
+      <module>Notification</module>
   </modules>
   <!-- FIXME change it to the project's website -->
  <!-- <url>https://zeekouu.netlify.app/</url> -->
