@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "app.calendar",
+      "type": "com.siiservice.rhmanagement.configuration.HolidayConfig",
+      "sourceType": "com.siiservice.rhmanagement.configuration.HolidayConfig"
+    },
+    {
+      "name": "app.jwt",
+      "type": "com.siiservice.security.jwt.JwtConfig",
+      "sourceType": "com.siiservice.security.jwt.JwtConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.calendar.holidays",
+      "type": "java.util.List<java.time.LocalDate>",
+      "sourceType": "com.siiservice.rhmanagement.configuration.HolidayConfig"
+    },
+    {
+      "name": "app.jwt.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.siiservice.security.jwt.JwtConfig"
+    },
+    {
+      "name": "app.jwt.token-prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.siiservice.security.jwt.JwtConfig"
+    },
+    {
+      "name": "app.jwt.token-validity-in-milliseconds",
+      "type": "java.lang.Long",
+      "sourceType": "com.siiservice.security.jwt.JwtConfig"
+    }
+  ],
+  "hints": []
+}

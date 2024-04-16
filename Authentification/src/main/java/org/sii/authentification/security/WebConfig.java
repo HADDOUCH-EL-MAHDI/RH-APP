@@ -32,6 +32,7 @@ public class WebConfig  {
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowCredentials(true);
         // config.addAllowedOrigin("*");
+        config.addAllowedOrigin("http://localhost:4000");
         config.addAllowedOrigin("http://localhost:3000");
         config.addAllowedOrigin("http://localhost:8080");
         config.setAllowedHeaders(Arrays.asList(

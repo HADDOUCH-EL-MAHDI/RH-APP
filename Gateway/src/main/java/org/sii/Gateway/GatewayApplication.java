@@ -18,6 +18,7 @@ public class GatewayApplication {
     public CorsFilter corsFilter() {
         CorsConfiguration corsConfig = new CorsConfiguration();
         corsConfig.addAllowedOrigin("http://localhost:3000");
+        corsConfig.addAllowedOrigin("http://localhost:4000");
         corsConfig.addAllowedMethod("*");
         corsConfig.addAllowedHeader("*");
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();

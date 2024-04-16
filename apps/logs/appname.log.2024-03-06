@@ -1,0 +1,850 @@
+[2024-03-06 09:27:12,392] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 09:27:12,423] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 09:27:13,249] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserDTO, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:27:13,251] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:27:13,256] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:27:13,259] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:27:13,260] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:27:13,266] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:27:13,297] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:27:13,307] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserDTO, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:18,238] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsenceTypes, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:18,260] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getUsersByRole, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:18,280] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getUsersByRole, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:18,294] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:18,295] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:18,303] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsenceTypes, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:18,307] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:18,314] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:18,389] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: isFirstTimeLogin, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:18,396] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: isFirstTimeLogin, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:19,088] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserDTO, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:19,089] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:19,095] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:19,098] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:19,099] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:19,104] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:19,111] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:29:19,113] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserDTO, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,065] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: verifySoldeAndSaveAbsence, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,066] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,071] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,074] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,075] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,079] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,086] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,116] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: saveAbsence, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,116] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,126] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,134] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getUserManagerById, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,165] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getUserManagerById, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,166] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsenceTypeById, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,179] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsenceTypeById, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,180] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: saveDocument, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,181] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: saveDocument, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,182] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,191] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,246] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: generateTokenAuth, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,250] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: generateTokenAuth, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,252] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,256] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:31:51,258] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: sendEmail, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:00,597] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: sendEmail, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:00,597] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: saveAbsence, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:00,604] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: verifySoldeAndSaveAbsence, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:00,728] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:00,728] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:00,731] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:00,742] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:16,629] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentTypes, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:16,631] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:16,632] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:16,634] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentTypes, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:16,636] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:32:16,677] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:04,003] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:04,005] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:04,013] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:04,020] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:21,875] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:21,876] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:21,881] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:21,886] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:39,804] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:39,805] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:39,809] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:39,818] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:59,995] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:33:59,995] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:00,001] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:00,005] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:01,750] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:01,750] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:01,755] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:01,762] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:03,008] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:03,008] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:03,014] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:03,019] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:04,923] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:04,923] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:04,928] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:04,935] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:54,329] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:54,329] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:54,333] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:34:54,338] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:35:00,900] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:35:00,900] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:35:00,906] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:35:00,914] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:35:12,571] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:35:12,572] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:35:12,575] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 09:35:12,581] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:02,727] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:02,735] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:02,751] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:02,766] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:12,418] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:12,419] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:12,424] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:12,432] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:20,103] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:20,104] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:20,109] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:20,119] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:31,178] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:31,179] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:31,185] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:31,192] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:32,940] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:32,941] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:32,946] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:41:32,951] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:43:14,457] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 10:43:14,463] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 10:43:14,728] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserDTO, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:43:14,730] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:43:14,743] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:43:14,746] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:43:14,747] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:43:14,757] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:43:14,762] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:43:14,765] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserDTO, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:01,290] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: isFirstTimeLogin, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:01,298] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: isFirstTimeLogin, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:01,383] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserDTO, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:01,385] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:01,388] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:01,391] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:01,392] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:01,400] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:01,404] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:01,406] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserDTO, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:10,942] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentTypes, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:10,942] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:10,944] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:10,952] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:10,952] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentTypes, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:10,960] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:17,903] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsenceTypes, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:17,913] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getUsersByRole, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:17,917] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsenceTypes, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:17,920] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getUsersByRole, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:17,929] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:17,930] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:17,936] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:17,942] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:37,757] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:37,758] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:37,763] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:44:37,768] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,274] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: verifySoldeAndSaveAbsence, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,276] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,288] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,290] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,291] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,300] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,309] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,364] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: saveAbsence, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,369] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,373] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,378] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getUserManagerById, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,408] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getUserManagerById, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,409] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsenceTypeById, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,419] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsenceTypeById, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,419] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: saveDocument, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,420] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: saveDocument, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,421] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,425] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,476] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: generateTokenAuth, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,486] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: generateTokenAuth, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,487] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,492] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:34,494] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: sendEmail, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:47,517] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: sendEmail, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:47,518] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: saveAbsence, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:47,524] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: verifySoldeAndSaveAbsence, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:47,645] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:47,645] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:47,650] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:45:47,659] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: hajarlehraiki18@gmail.com
+ [2024-03-06 10:46:14,729] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 10:46:14,732] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 10:46:14,985] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserDTO, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:14,987] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:14,993] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:14,995] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:14,995] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:14,999] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:15,006] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:15,008] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserDTO, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:19,402] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentTypes, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:19,407] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:19,407] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentTypes, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:19,407] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:19,413] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:19,418] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:21,598] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsenceTypes, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:21,603] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getUsersByRole, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:21,614] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsenceTypes, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:21,615] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getUsersByRole, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:21,626] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:21,627] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:21,631] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:46:21,639] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:47:39,738] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:47:39,738] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:47:39,750] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 10:47:39,759] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 13:54:40,460] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 13:54:40,538] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 13:54:40,595] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 13:54:40,663] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 13:55:15,102] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 13:55:15,103] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 13:55:15,107] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 13:55:15,119] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 14:00:26,148] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 14:00:26,154] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 14:00:26,173] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 14:00:26,259] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: sadeq.ali@gmail.com
+ [2024-03-06 15:58:41,472] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 15:58:41,489] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 15:58:42,306] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserDTO, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:58:42,308] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:58:42,313] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:58:42,315] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserDTO, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:18,500] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: isFirstTimeLogin, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:18,508] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: isFirstTimeLogin, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:18,583] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserDTO, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:18,585] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:18,589] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:18,591] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserDTO, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:23,162] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsenceTypes, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:23,182] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsenceTypes, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:23,201] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getUsersByRole, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:23,201] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:23,203] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:23,209] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getUsersByRole, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:23,220] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:23,267] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,186] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: verifySoldeAndSaveAbsence, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,187] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,198] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,215] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: saveAbsence, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,216] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,219] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,229] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getUserManagerById, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,252] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getUserManagerById, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,252] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsenceTypeById, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,262] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsenceTypeById, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,264] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: saveDocument, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,265] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: saveDocument, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,266] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,268] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,287] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: generateTokenAuth, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,298] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: generateTokenAuth, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,299] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,302] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 15:59:57,305] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: sendEmail, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 16:00:11,266] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: sendEmail, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 16:00:11,266] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: saveAbsence, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 16:00:11,273] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: verifySoldeAndSaveAbsence, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 16:00:11,388] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 16:00:11,390] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 16:00:11,396] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 16:00:11,406] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: haddouchelmahdi@gmail.com
+ [2024-03-06 16:05:49,145] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:05:49,152] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:05:49,161] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:05:49,166] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:05:49,175] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:05:49,181] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:05:49,189] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:05:49,193] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:05:49,210] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:05:49,216] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:05:49,306] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:05:49,306] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:05:49,311] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:05:49,312] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsenceById, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:05:49,325] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:05:49,339] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserDTO, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:05:49,340] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:05:49,350] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:05:49,353] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserDTO, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:05:49,353] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsenceTypes, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:05:49,364] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsenceTypes, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:05:49,372] http-nio-8080-exec-4 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsenceById, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:07:10,011] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:07:10,015] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 36 ERROR - Exception occurred: 
+ org.springframework.security.core.userdetails.UsernameNotFoundException: User with email haddouch.elmahdi@gmail.com not found
+	at com.siiservice.rhmanagement.service.impl.UserServiceImpl.loadUserByUsername(UserServiceImpl.java:55)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.aspectj.AspectJAfterThrowingAdvice.invoke(AspectJAfterThrowingAdvice.java:64)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.aspectj.AspectJAfterAdvice.invoke(AspectJAfterAdvice.java:49)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:58)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:390)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:702)
+	at com.siiservice.rhmanagement.service.impl.UserServiceImpl$$SpringCGLIB$$0.loadUserByUsername(<generated>)
+	at org.springframework.security.authentication.dao.DaoAuthenticationProvider.retrieveUser(DaoAuthenticationProvider.java:94)
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:133)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182)
+	at com.siiservice.security.filter.CustomUsernamePasswordAuthenticationFilter.attemptAuthentication(CustomUsernamePasswordAuthenticationFilter.java:55)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:231)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at com.siiservice.security.filter.TokenAuthenticationFilter.doFilterInternal(TokenAuthenticationFilter.java:38)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-03-06 16:07:10,034] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:07:10,288] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:07:10,292] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 36 ERROR - Exception occurred: 
+ org.springframework.security.core.userdetails.UsernameNotFoundException: User with email haddouch.elmahdi@gmail.com not found
+	at com.siiservice.rhmanagement.service.impl.UserServiceImpl.loadUserByUsername(UserServiceImpl.java:55)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.aspectj.AspectJAfterThrowingAdvice.invoke(AspectJAfterThrowingAdvice.java:64)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.aspectj.AspectJAfterAdvice.invoke(AspectJAfterAdvice.java:49)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:58)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:390)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:702)
+	at com.siiservice.rhmanagement.service.impl.UserServiceImpl$$SpringCGLIB$$0.loadUserByUsername(<generated>)
+	at org.springframework.security.authentication.dao.DaoAuthenticationProvider.retrieveUser(DaoAuthenticationProvider.java:94)
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:133)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:201)
+	at com.siiservice.security.filter.CustomUsernamePasswordAuthenticationFilter.attemptAuthentication(CustomUsernamePasswordAuthenticationFilter.java:55)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:231)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at com.siiservice.security.filter.TokenAuthenticationFilter.doFilterInternal(TokenAuthenticationFilter.java:38)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-03-06 16:07:10,294] http-nio-8080-exec-7 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:07:36,190] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:07:36,194] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: loadUserByUsername, Current User Email: N/A
+ [2024-03-06 16:07:36,433] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserDTO, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:07:36,435] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:07:36,440] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:07:36,442] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserDTO, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:07:40,121] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: isFirstTimeLogin, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:07:40,128] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: isFirstTimeLogin, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:07:40,197] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserDTO, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:07:40,200] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:07:40,205] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:07:40,207] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserDTO, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:18,984] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsenceTypes, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:18,996] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsenceTypes, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:19,002] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:19,003] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:19,007] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:19,016] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:30,288] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: changeStatus, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:30,300] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:30,303] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:30,305] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:30,313] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:30,316] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:30,320] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:30,321] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getUsersByRole, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:30,330] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getUsersByRole, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:30,331] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: sendEmail, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:36,829] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: sendEmail, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:36,830] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: sendEmail, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:49,343] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: sendEmail, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:49,343] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: changeStatus, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:49,467] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:49,470] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:49,475] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:49,484] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:57,366] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: changeStatus, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:57,379] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:57,382] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:57,383] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: changeStatus, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:57,536] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:57,538] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:57,543] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:08:57,551] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:09:36,416] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:09:36,417] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:09:36,420] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:09:36,428] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:09:50,738] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:09:50,739] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:09:50,743] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:09:50,753] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:09:58,668] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:09:58,669] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:09:58,673] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:09:58,683] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:10:52,107] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: changeStatus, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:10:52,112] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:10:52,115] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:10:52,115] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: changeStatus, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:10:52,235] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:10:52,236] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:10:52,240] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:10:52,251] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:10:52,310] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:10:52,310] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:10:52,313] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:10:52,320] http-nio-8080-exec-9 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByManager, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:01,728] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: isFirstTimeLogin, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:01,733] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: isFirstTimeLogin, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:01,804] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserDTO, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:01,806] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:01,811] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:01,813] http-nio-8080-exec-5 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserDTO, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:32,787] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: updateAbsencesDuration, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:32,789] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:32,792] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:32,799] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 36 ERROR - Exception occurred: 
+ com.siiservice.rhmanagement.exception.ValidationDateException: existing holiday or the role is not admin 
+	at com.siiservice.rhmanagement.service.impl.AbsenceServiceImpl.updateAbsencesDuration(AbsenceServiceImpl.java:190)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.aspectj.AspectJAfterThrowingAdvice.invoke(AspectJAfterThrowingAdvice.java:64)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.aspectj.AspectJAfterAdvice.invoke(AspectJAfterAdvice.java:49)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:58)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:390)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:702)
+	at com.siiservice.rhmanagement.service.impl.AbsenceServiceImpl$$SpringCGLIB$$0.updateAbsencesDuration(<generated>)
+	at com.siiservice.rhmanagement.controller.HolidayController.updateHolidays(HolidayController.java:28)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doPut(FrameworkServlet.java:925)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:734)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:110)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:110)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:365)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at com.siiservice.security.filter.AuthorizationFilter.doFilterInternal(AuthorizationFilter.java:41)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:227)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at com.siiservice.security.filter.TokenAuthenticationFilter.doFilterInternal(TokenAuthenticationFilter.java:38)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-03-06 16:11:32,802] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: updateAbsencesDuration, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:32,815] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getException, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:32,817] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getException, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:48,279] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getUsersByRole, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:48,284] http-nio-8080-exec-6 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getUsersByRole, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:48,291] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:48,292] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:48,296] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:48,302] http-nio-8080-exec-2 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:51,081] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentTypes, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:51,088] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:51,090] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:51,095] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:51,097] http-nio-8080-exec-8 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentTypes, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:11:51,163] http-nio-8080-exec-1 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAdministrativeDocumentByCurrentUser, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:12:00,564] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getAbsencesByCurrentUser, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:12:00,565] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:12:00,569] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:12:00,575] http-nio-8080-exec-3 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getAbsencesByCurrentUser, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:12:37,179] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: updateAbsencesDuration, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:12:37,179] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:12:37,182] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getCurrentUserWithoutSolde, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:12:37,187] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 36 ERROR - Exception occurred: 
+ com.siiservice.rhmanagement.exception.ValidationDateException: existing holiday or the role is not admin 
+	at com.siiservice.rhmanagement.service.impl.AbsenceServiceImpl.updateAbsencesDuration(AbsenceServiceImpl.java:190)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.aspectj.AspectJAfterThrowingAdvice.invoke(AspectJAfterThrowingAdvice.java:64)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.aspectj.AspectJAfterAdvice.invoke(AspectJAfterAdvice.java:49)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:58)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:390)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:702)
+	at com.siiservice.rhmanagement.service.impl.AbsenceServiceImpl$$SpringCGLIB$$0.updateAbsencesDuration(<generated>)
+	at com.siiservice.rhmanagement.controller.HolidayController.updateHolidays(HolidayController.java:28)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doPut(FrameworkServlet.java:925)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:734)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:110)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:110)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:365)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at com.siiservice.security.filter.AuthorizationFilter.doFilterInternal(AuthorizationFilter.java:41)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:227)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at com.siiservice.security.filter.TokenAuthenticationFilter.doFilterInternal(TokenAuthenticationFilter.java:38)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-03-06 16:12:37,189] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: updateAbsencesDuration, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:12:37,191] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 24 INFO  - Before : Called method: getException, Current User Email: elmahdi.haddouch@ump.ac.ma
+ [2024-03-06 16:12:37,192] http-nio-8080-exec-10 com.siiservice.rhmanagement.aspect.LoggingAspect 31 INFO  - After : Called method: getException, Current User Email: elmahdi.haddouch@ump.ac.ma
+ 
